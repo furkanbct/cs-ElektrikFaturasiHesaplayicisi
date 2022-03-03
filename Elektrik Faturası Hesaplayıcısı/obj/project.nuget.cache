@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j4s9Uf4FrxKSMGWfiU/mhs16NwwfpnNW7PxiiJYMRp3DQEtP736R4ZTQ5CDk36H8hK8sLBB2Ak1HiGPzgqGsSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Furkan\\source\\repos\\Elektrik Faturası Hesaplayıcısı\\Elektrik Faturası Hesaplayıcısı\\Elektrik Faturası Hesaplayıcısı.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\bin\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.exe
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\bin\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.deps.json
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\bin\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.runtimeconfig.json
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\bin\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.runtimeconfig.dev.json
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\bin\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.dll
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\bin\Debug\net5.0-windows\ref\Elektrik Faturası Hesaplayıcısı.dll
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\bin\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.pdb
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik_Faturası_Hesaplayıcısı.Form1.resources
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.dll
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\ref\Elektrik Faturası Hesaplayıcısı.dll
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.pdb
+C:\Users\Furkan\source\repos\Elektrik Faturası Hesaplayıcısı\Elektrik Faturası Hesaplayıcısı\obj\Debug\net5.0-windows\Elektrik Faturası Hesaplayıcısı.genruntimeconfig.cache
